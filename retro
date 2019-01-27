@@ -1,5 +1,5 @@
 var custom = {
-'Retro':[
+'Custom':[
     {
         "featureType": "administrative",
         "stylers": [
