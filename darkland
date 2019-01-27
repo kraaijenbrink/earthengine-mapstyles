@@ -82,6 +82,21 @@ var custom = {
         ]
     },
     {
+        "featureType": "administrative.country",
+        "elementType": "labels",
+        "stylers": [
+            {
+                "visibility": "off"
+            },
+            {
+                "weight": "0.75"
+            },
+            {
+                "lightness": "30"
+            }
+        ]
+    },
+    {
         "featureType": "administrative.province",
         "elementType": "all",
         "stylers": [
@@ -291,6 +306,15 @@ var custom = {
             },
             {
                 "lightness": 17
+            }
+        ]
+    },
+    {
+        "featureType": "water",
+        "elementType": "labels",
+        "stylers": [
+            {
+                "visibility": "off"
             }
         ]
     }
